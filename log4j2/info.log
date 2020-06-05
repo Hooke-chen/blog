@@ -1,0 +1,19 @@
+14:47:47.127 [main] INFO  com.czw.blog.BlogApplication - Starting BlogApplication on 端脑 with PID 5496 (D:\JetBrains\IdeaProjects\Pratise\blog\target\classes started by 16622 in D:\JetBrains\IdeaProjects\Pratise\blog)
+14:47:47.141 [main] INFO  com.czw.blog.BlogApplication - No active profile set, falling back to default profiles: default
+14:47:48.787 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:47:48.789 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:47:48.789 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+14:47:48.928 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:47:49.402 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:47:49.450 [main] INFO  com.czw.blog.BlogApplication - Started BlogApplication in 3.232 seconds (JVM running for 9.955)
+14:50:37.188 [main] INFO  com.czw.blog.BlogApplication - Starting BlogApplication on 端脑 with PID 12800 (D:\JetBrains\IdeaProjects\Pratise\blog\target\classes started by 16622 in D:\JetBrains\IdeaProjects\Pratise\blog)
+14:50:37.226 [main] INFO  com.czw.blog.BlogApplication - No active profile set, falling back to default profiles: default
+14:50:38.513 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:50:38.514 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:50:38.515 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+14:50:38.632 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:50:39.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:50:39.085 [main] INFO  com.czw.blog.BlogApplication - Started BlogApplication in 2.966 seconds (JVM running for 9.323)
+15:43:14.268 [main] INFO  com.czw.blog.HelloTest - Starting HelloTest on 端脑 with PID 7220 (started by 16622 in D:\JetBrains\IdeaProjects\Pratise\blog)
+15:43:14.284 [main] INFO  com.czw.blog.HelloTest - No active profile set, falling back to default profiles: default
+15:43:18.947 [main] INFO  com.czw.blog.HelloTest - Started HelloTest in 5.696 seconds (JVM running for 8.735)
